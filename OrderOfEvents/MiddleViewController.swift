@@ -9,17 +9,13 @@
 import UIKit
 
 class MiddleViewController: UIViewController {
+    
+    
 
-    @IBOutlet weak var infoLabel: UILabel!
-    
-    var eventNumber: Int = 1
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        // Do any additional setup after loading the view.
     }
 
-
-
-}
+ }
